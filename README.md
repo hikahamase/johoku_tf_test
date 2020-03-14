@@ -13,6 +13,10 @@
 3. スマホ対応
 4. 無料
 
+## ページ構造
+
+トップページ：https://hikahamase.github.io/johoku_tf_test/home
+
 ## 参考サイト
 
 1. https://qiita.com/MahoTakara/items/3800e9dc83b530d0a050
