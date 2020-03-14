@@ -1,5 +1,7 @@
 # 城北中学・高等学校 陸上競技部
 
+![なんかいい感じの画像](https://hikahamase.github.io/johoku_tf_test/rikujou_track_side.png)
+
 ## [東京都中体連 速報](http://gold.jaic.org/jaic/member/tokyo/cyuugaku/index.htm) 
 ## [東京都高体連 速報](http://gold.jaic.org/tokyo/)
 
