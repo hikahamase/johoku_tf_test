@@ -8,9 +8,9 @@
 
 ## 大会情報
 
-### [東京都中体連](http://www.tokyoctr.com/)
-### [東京都高体連](http://www.tokyokotairenrikujo.jp/)
-### [私学大会](https://www-cc.gakushuin.ac.jp/~19920096/tokyops-tandf/)
+1. [東京都中体連](http://www.tokyoctr.com/)
+2. [東京都高体連](http://www.tokyokotairenrikujo.jp/)
+3. [私学大会](https://www-cc.gakushuin.ac.jp/~19920096/tokyops-tandf/)
 
 その他の大会情報についてはリンクよりご覧ください。
 
