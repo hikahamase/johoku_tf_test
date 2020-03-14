@@ -12,6 +12,6 @@
 
 ## リンク
 
-[城北学園中学・高等学校](https://www.johoku.ac.jp/)
-[東京都中体連](http://gold.jaic.org/jaic/member/tokyo/cyuugaku/index.htm)
-[東京都高体連](http://gold.jaic.org/tokyo/)
+1. [城北学園中学・高等学校](https://www.johoku.ac.jp/)
+2. [東京都中体連](http://gold.jaic.org/jaic/member/tokyo/cyuugaku/index.htm)
+3. [東京都高体連](http://gold.jaic.org/tokyo/)
